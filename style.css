@@ -1,0 +1,153 @@
+body {
+    background-color: magenta;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+
+/* css for first section */
+
+#sec1-intro {
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(36, 156, 226);
+    background: url(index1.jpg) no-repeat center center fixed;
+    padding-bottom: 12%;
+    padding-top: 1%;
+}
+
+h2 {
+    color: rgb(65, 43, 4);
+}
+
+
+/* css for  Better learning for  better results !! */
+
+.flexbox {
+    padding-bottom: 20%;
+    margin-left: 10%;
+}
+
+#better {
+    color: orange;
+    cursor: pointer;
+    margin-right: 30%;
+    margin-top: 25%;
+    margin-left: 30%;
+}
+
+#better:hover {
+    color: yellow;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+
+/* css for team section*/
+
+.team1 {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.team2 {
+    padding-right: 5%;
+}
+
+.team3 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.team4 {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.team5 {
+    padding-left: 1%;
+    padding-right: 5%;
+}
+
+
+/* css for team names */
+
+.name {
+    margin-left: 8%;
+    margin-top: 5%;
+    color: black;
+}
+
+#teach {
+    color: rgb(15, 1, 14);
+    font: outline;
+}
+
+#team {
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 10%;
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 3%;
+    margin-top: 2%;
+}
+
+
+/* css for form1 enroll */
+
+#sec3 {
+    margin-bottom: 10%;
+    margin-top: 10%;
+    background: url(index2.jpg) no-repeat center fixed;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 1%;
+}
+
+.formbox {
+    padding-top: 5%;
+    margin-bottom: 5%;
+    padding-right: 30%;
+    margin-left: 30%;
+}
+
+p {
+    font: bold;
+    font-size: 120%;
+}
+
+
+/* css for contact */
+
+#sec4-contact {
+    margin-bottom: 10%;
+    margin-top: 10%;
+    background-color: aliceblue;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 1%;
+}
+
+
+/* css for footer */
+
+footer {
+    background-color: rgb(132, 205, 253);
+}
+
+.course {
+    padding-left: 5%;
+    padding-top: 2%;
+    font: 400;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    font-style: italic;
+}
